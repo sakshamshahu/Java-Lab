@@ -1,4 +1,4 @@
-package LAB6;
+package LAB6.p1;
 
 public class index {
 	public static void main (String[] args) {

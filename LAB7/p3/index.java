@@ -3,7 +3,7 @@ package LAB7.p3;
 interface constants{
 	final int a = 40;
 	final int b = 34;
-	final int c = 40;
+	final int c = 2;
 }
 public class index extends A implements constants {
 	public static void main (String [] args) {
@@ -14,6 +14,7 @@ public class index extends A implements constants {
 }
 class A implements constants{
 	void xyz() {
-		System.out.println("Sum od constants a & b is :"+(a+b));
+		System.out.println("Sum of the constants a & b is :"+(a+b));
+		
 	}
 }

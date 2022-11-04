@@ -19,6 +19,5 @@ public class index implements abc{
 		index obj = new index();
 		System.out.println(obj.division(480));
 		System.out.println(obj.modules(9));
-	}
-	
+	}	
 }

@@ -9,6 +9,7 @@ modules. (Use command line arguments).
 problem. If the vehicles are running in different direction there is a chance of collision. To avoid
 collisions write a Java program using exception handling. You are free to make necessary
 assumptions.
+
 5)Write a java program to throw an exception for an employee details.
 - If an employee name is a number, a name exception must be thrown.
 - If an employee age is greater than 50, an age exception must be thrown.

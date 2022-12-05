@@ -1,6 +1,5 @@
 package LAB8.p5;
 import java.util.Scanner;
-
 class AgeException extends Exception{
 	public AgeException() {
         super("Age is too high.");
